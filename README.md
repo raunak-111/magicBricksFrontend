@@ -54,6 +54,7 @@ client/
 │   └── index.js     # Entry point of the application
 ├── .env             # Environment variables (not included in version control)
 └── package.json     # Dependency and project configuration
+
 How to Use
 Navigate to the application in your browser:
 Code
